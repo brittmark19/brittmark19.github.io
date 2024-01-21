@@ -9,13 +9,10 @@ tags:
 ---
 
 Growing sweet peas in a semi-arid climate with cold winters, short unpredictable springs, and hot summers can be tricky, but it's worth the extra effort to grow these beautiful fragrant flowers. 
-###### Source : [`Jekyll Docs`](https://jekyllrb.com/docs/)
-
-> ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
 	
-# Installation
-**Jekyll is a Ruby Gem that can be installed on most systems.**
-### Requirements
+# Growing Sweet Peas in Semi-Arid Climates
+
+### Selecting Seeds
 * [Ruby](https://www.ruby-lang.org/en/downloads/){:target="_blank"} version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)
 * [Ruby Gems](https://rubygems.org/pages/download){:target="_blank"} (which you can check by running gem -v)
 * [GCC](https://gcc.gnu.org/install/){:target="_blank"} and [Make](https://www.gnu.org/software/make/){:target="_blank"}
