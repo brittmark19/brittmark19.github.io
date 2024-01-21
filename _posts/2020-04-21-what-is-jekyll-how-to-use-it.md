@@ -13,9 +13,9 @@ Growing sweet peas in a semi-arid climate with cold winters, short unpredictable
 # Growing Sweet Peas in Semi-Arid Climates
 
 ### Selecting Seeds
-* [Ruby](https://www.ruby-lang.org/en/downloads/){:target="_blank"} version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)
-* [Ruby Gems](https://rubygems.org/pages/download){:target="_blank"} (which you can check by running gem -v)
-* [GCC](https://gcc.gnu.org/install/){:target="_blank"} and [Make](https://www.gnu.org/software/make/){:target="_blank"}
+ [Select Seeds](https://www.selectseeds.com/collections/sweet-pea/){:target="_blank"} Offers a good selection of heirloom varieties and a few good newer Spencer types for a good price.
+ [Uprising Organics](https://uprisingorganics.com/collections/sweet-pea){:target="_blank"} (which you can check by running gem -v)
+ [GCC](https://gcc.gnu.org/install/){:target="_blank"} and [Make](https://www.gnu.org/software/make/){:target="_blank"}
 
 ### After Installing the Requirements you can follow these guides:
 **For detailed install instructions have a look at the guide for your operating system.**
